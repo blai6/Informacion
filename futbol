@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Información sobre [Futbol]">
+    <meta name="keywords" content="pelota, partido, trofeo">
+    <meta name="author" content="Blai">
+    <title>Información sobre [futbol]</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; padding: 0; }
+        header { background-color: #4CAF50; color: white; padding: 10px 0; text-align: center; }
+        section { padding: 20px; margin: 20px; }
+        footer { text-align: center; padding: 10px; background-color: #333; color: white; }
+        h1, h2 { color: #333; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Información sobre [tu tema aquí]</h1>
+    </header>
+
+    <section>
+        <h2>¿Qué es [tu tema aquí]?</h2>
+        <p>Escribe una introducción sobre tu tema. Explica de manera simple y clara lo que los visitantes encontrarán en esta página.</p>
+    </section>
+
+    <section>
+        <h2>Detalles Importantes</h2>
+        <p>pleooooota</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 - [Tu nombre o el nombre de tu página]. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
